@@ -7,3 +7,5 @@ Maybe now that I have created my alternative personality I can begin to berate m
 
 Happy? I removed a phrase that messes with the entire idea of the doc. 
 
+
+I have created another branch to do the edits in. This will allow us to make any changes and if we totally screw the document up it will not effect how the master looks until I pull it into the master. 
